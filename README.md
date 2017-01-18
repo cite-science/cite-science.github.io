@@ -5,7 +5,7 @@ Static pages served at <https://cite.science/>.
 To preview local changes:
 
     gem install github-pages
-    jekyll serve --watch --incremental
+    jekyll serve --watch
 
 
 ## License
