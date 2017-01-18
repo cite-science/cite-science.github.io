@@ -11,3 +11,6 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+
+# custom settings
+permalink: /:categories/:title

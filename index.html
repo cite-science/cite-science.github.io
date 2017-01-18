@@ -1,0 +1,14 @@
+---
+layout: default
+title: Homepage
+---
+{% for post in site.posts %}
+  <article>
+    <h1>
+      <a href="{{post.url}}">{{post.title}}</a>
+    </h1>
+    <section>
+      {{post.content}}
+    </section>
+  </article>
+{% endfor %}
