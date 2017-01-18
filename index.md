@@ -1,0 +1,18 @@
+---
+layout: default
+---
+## `cite.science`
+
+#### An open and collectively curated citation database
+
+[Google Scholar](https://scholar.google.com/), [Microsoft Academic](https://academic.microsoft.com), [Web of Science](https://webofknowledge.com/), and many other academic literature indices are indispensable tools for any researcher, but they are all commercial, closed, and as a result, opaque.
+
+We need an [OpenStreetMap](https://www.openstreetmap.org/) for academic literature metadata: an open and community-curated database of citations and other publication metadata.
+
+This site is an attempt to build that database.
+
+Follow the progress of this endeavor at this URL, [`cite.science`](https://cite.science/), and on [GitHub: @cite-science](https://github.com/cite-science).
+
+#### Timeline
+
+* Founded on 2016-10-25
